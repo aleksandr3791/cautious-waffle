@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Calculator {
 
-    // napisz program, który poprosi uzytkownika o dwie liczby, a następnie wykona na nich podstawowe operacje matematyczne
+    // Praca Domowa - napisz program, który poprosi uzytkownika o dwie liczby, a następnie wykona na nich podstawowe operacje matematyczne
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
