@@ -2,7 +2,7 @@ public class Switch {
 
     public static void main(String[] args) {
 
-        String dish = "Sushi";
+        String dish = "Pizza";
 
         switch (dish) {
             case "Pizza":
