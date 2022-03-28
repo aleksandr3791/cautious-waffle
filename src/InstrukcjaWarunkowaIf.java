@@ -10,6 +10,5 @@ public class InstrukcjaWarunkowaIf {
             System.out.println("Proszę podaj inną liczbę różną od zera");
         }
 
-
     }
 }

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calculator {
+public class PracaDomowaCalculator {
 
     // Praca Domowa - napisz program, który poprosi uzytkownika o dwie liczby, a następnie wykona na nich podstawowe operacje matematyczne
 

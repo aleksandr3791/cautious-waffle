@@ -11,7 +11,7 @@ public interface OperatoryPorownania {
         System.out.println(firstNumber < secondNumber);
         System.out.println(firstNumber >= secondNumber);
         System.out.println(firstNumber <= secondNumber);
-        System.out.println(firstNumber == secondNumber); // pojedynczy znak równości to nadpisanie wartości
+        System.out.println(firstNumber == secondNumber); // pojedynczy znak równości to było by nadpisanie wartości
         System.out.println(firstNumber != secondNumber);
 
 

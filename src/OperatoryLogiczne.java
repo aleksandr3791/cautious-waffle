@@ -1,23 +1,24 @@
 public class OperatoryLogiczne {
-
     public static void main(String[] args) {
+        public interface OperatoryPorownania {
 
-        boolean firstValue = true;
-        boolean secondValue = false;
-        boolean thirdValue = false;
-        boolean fourthValue = true;
+            public static void main(String[] args) {
+                int firstNumber = 4;
+                int secondNumber = 6;
 
-        // && operator 'i' -> true wtedy, gdy wyrażenia składowe są równe true
-        System.out.println(firstValue && secondValue); //rezulatt powinien być false
-        System.out.println(firstValue && fourthValue); // rezultat powinien być true
+                boolean result = secondNumber > firstNumber;
+                System.out.println(result);
 
-        // || operator 'lub' -> true wtedy, gdy jedno wyrażenie składowe jest równe true
-        System.out.println(firstValue || secondValue); //rezultat powinien byc true
-        System.out.println(secondValue || thirdValue); //rezultat powinien byc false
+                System.out.println(firstNumber > secondNumber);
+                System.out.println(firstNumber < secondNumber);
+                System.out.println(firstNumber >= secondNumber);
+                System.out.println(firstNumber <= secondNumber);
+                System.out.println(firstNumber == secondNumber); // pojedynczy znak równości to było by nadpisanie wartości
+                System.out.println(firstNumber != secondNumber);
 
-        // ! negacja -> zwraca wartość przeciwną do wyrażenia przed którym się znajduje
-        System.out.println(!firstValue); // rezultat powinien być false
-        System.out.println(!secondValue); //rezultat powinien byc true
-        System.out.println(!(firstValue && secondValue)); // rezultat powinien być true
+
+            }
+        }
+
     }
 }
