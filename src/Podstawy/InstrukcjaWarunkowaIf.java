@@ -1,3 +1,5 @@
+package Podstawy;
+
 public class InstrukcjaWarunkowaIf {
 
     public static void main(String[] args) {

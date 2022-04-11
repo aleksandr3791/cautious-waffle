@@ -1,3 +1,5 @@
+package PraceDomowe;
+
 public class PracaDomowaPetle {
 
     //1 Wypisz liczby z zakresu 1-100 podzielne przez 3

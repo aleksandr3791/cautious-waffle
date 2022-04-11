@@ -1,3 +1,5 @@
+package PraceDomowe;
+
 import java.util.Scanner;
 
 public class PracaDomowaCalculator {

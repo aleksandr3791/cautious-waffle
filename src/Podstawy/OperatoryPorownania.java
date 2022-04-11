@@ -1,3 +1,5 @@
+package Podstawy;
+
 public interface OperatoryPorownania {
 
     public static void main(String[] args) {

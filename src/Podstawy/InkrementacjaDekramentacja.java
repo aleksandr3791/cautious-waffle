@@ -1,3 +1,5 @@
+package Podstawy;
+
 public class InkrementacjaDekramentacja {
 
     public static void main(String[] args) {

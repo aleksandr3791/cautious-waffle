@@ -1,3 +1,5 @@
+package Podstawy;
+
 public class PetlaWhile {
 
     public static void main(String[] args) {

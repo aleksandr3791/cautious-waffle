@@ -1,3 +1,5 @@
+package Podstawy;
+
 public class PetlaFor {
 
     public static void main(String[] args) {

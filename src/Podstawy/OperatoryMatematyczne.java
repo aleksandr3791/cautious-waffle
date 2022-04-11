@@ -1,3 +1,5 @@
+package Podstawy;
+
 public class OperatoryMatematyczne {
 
     public static void main(String[] args) {
