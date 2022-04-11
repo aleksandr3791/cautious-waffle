@@ -9,21 +9,21 @@ public class PracaDomowaStudent {
         student001.imie = "Paulina";
         student001.nazwisko = "Kowalska";
         student001.nick = "Pako";
-        student001.numerIndeksu = 001;
+        student001.numerIndeksu = 465469;
         student001.email = "paulina.kowalska@test.com";
 
         Student student002 = new Student();
         student002.imie = "Sara";
         student002.nazwisko = "Burczyk";
         student002.nick = "Sabu";
-        student002.numerIndeksu = 002;
+        student002.numerIndeksu = 458962;
         student002.email = "saraburczyk@test.com";
 
         Student student003 = new Student();
         student003.imie = "Bartlomiej";
         student003.nazwisko = "Niedzwiedzki";
         student003.nick = "Bani";
-        student003.numerIndeksu = 003;
+        student003.numerIndeksu = 523698;
         student003.email = "bartlomiejniedzwiedzki@test.com";
 
 
