@@ -2,7 +2,7 @@ public class AutoTest {
 
     public static void main(String[] args) {
 
-        Auto mercedes = new Auto();
+    /*    Auto mercedes = new Auto();
         mercedes.marka = "Mercedes";
         mercedes.model = "Klasa S";
         mercedes.rok = 2015;
@@ -22,7 +22,13 @@ public class AutoTest {
 
         Auto noName = new Auto();
 
-        noName.info();
+        noName.info();    */
+
+        Auto fiat = new Auto("Fiat", "Uno", 2010, 300000);
+        Auto opel = new Auto("Opel", "Corsa", 2018, 100000);
+
+        fiat.info();
+        opel.info();
 
     }
 }
