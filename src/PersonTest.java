@@ -5,6 +5,7 @@ public class PersonTest {
         MathTeacher teacher = new MathTeacher("Tom", 29, "School in Lublin");
         teacher.sayHello();
         teacher.teatchMath();
+        teacher.eat();
 
         Footballer footballer = new Footballer("Mike", 21, "Motor Lublin");
         footballer.walk();
