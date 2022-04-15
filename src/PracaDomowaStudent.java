@@ -5,12 +5,16 @@ public class PracaDomowaStudent {
 
     public static void main(String[] args) {
 
+        String uczelnia = Student.nazwaUczelni;
+        Student.infoUczelnia();
+
         Student student001 = new Student();
         student001.imie = "Paulina";
         student001.nazwisko = "Kowalska";
         student001.nick = "Pako";
         student001.numerIndeksu = 465469;
         student001.email = "paulina.kowalska@test.com";
+        String uczelniaPauliny = student001.nazwaUczelni;
 
         Student student002 = new Student();
         student002.imie = "Sara";
