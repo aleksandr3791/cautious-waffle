@@ -8,7 +8,8 @@ public class IDontUnderstand {
     final/ static
     jak odróżnić klasę od metody od pola od obiektu itp
     petle wsyztskie
-    parametry klas
+    parametry klas/ konstruktowów w nawiasikach
+    wyjatki
 
 
      */
